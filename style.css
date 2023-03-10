@@ -1,0 +1,32 @@
+#footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+line-height: 2;
+background-color: rgb(139, 0, 97);
+color: rgba(238, 255, 0, 0.74);
+text-align: center;
+margin: 0px;
+}
+.heading{
+width: 100%;
+font-size: 25px;
+color: rgb(0, 0, 0);
+margin: 0px;
+box-shadow: 10px 10px 10px skyblue;
+}
+.note{
+color: rgb(92, 92, 92);
+font-size: 20px;
+}
+
+canvas{
+border: 5px solid black;
+border-radius: 10px;
+box-shadow: 15px 15px 25px rgb(53, 53, 53);
+margin-top: 30px;
+}
+
+body{
+background-image: url("Background.webp");
+}
